@@ -1,2 +1,2 @@
 # hello-world
-This is the first day that I come to github!!
+This was the first day that I came to github!!
