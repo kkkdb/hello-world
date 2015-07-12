@@ -2,7 +2,7 @@
 以前觉得可能所谓的前端开发工程师就是会HTML/CSS/JavaScript<br>
 可现在想来，这太过简单<br>
 成为一名真正的前端开发工程师所需掌握的知识应该有：<br>
-====
+----
 * 会用PS来进行图片的处理（比如切图，微调等）<br>
 * 用HTML/CSS实现mockup（可能还有SASS/LESS等工具）<br>
 * 熟悉JavaScript（比如前端的MVVM框架，客户端模版）<br>
