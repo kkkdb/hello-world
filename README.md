@@ -1,2 +1,11 @@
-# hello-world
-This was the first day that I came to github!!
+# 什么是前端开发工程师
+以前觉得可能所谓的前端开发工程师就是会HTML/CSS/JavaScript<br>
+可现在想来，这太过简单<br>
+###成为一名真正的前端开发工程师所需哟掌握的知识应该有：<br>
+*会用PS来进行图片的处理（比如切图，微调等）
+*用HTML/CSS实现mockup（可能还有SASS/LESS等工具）
+*熟悉JavaScript（比如前端的MVVM框架，客户端模版）
+*前端卡发的工作流程（代码检查，精简化，模块化CSS，liveReload，调试）
+*编写测试（静态检查，单元测试）
+*跨浏览器、跨设备的解决方法（不同分辨率，不同厂商）
+*会根据项目的特点选择不同的前端技术栈（移动端，Wen站点，响应式设计等）
